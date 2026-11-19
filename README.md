@@ -5,7 +5,7 @@ I train models and build the systems around them. **Open to work**: machine lear
 [Website](https://clarkwhitehead.com) · [LinkedIn](https://www.linkedin.com/in/clark-whitehead-0994b4191/) · hello@clarkwhitehead.com
 
 - **4+ years as a machine learning engineer**, most of it fine-tuning large language models for companies, up to Llama 3.1 405B (LoRA, 4-bit quantization, multi-GPU FSDP).
-- **Since 2025 I have run my own research lab** on reinforcement learning and continual learning: AlphaZero, MuZero, DreamerV3, self-play training. I use AI coding tools heavily in these projects.
+- **Since 2025 I have done independent research** on reinforcement learning and continual learning: AlphaZero, MuZero, DreamerV3, self-play training. I use AI coding tools heavily in these projects.
 
 ## Work you can open
 
